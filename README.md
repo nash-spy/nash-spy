@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nash-spy
+- 👋 Hi, I’m @boukeng rochinel 
 - 👀 I’m interested in coding mostly in pure python
-- 🌱 I’m currently learning pure javascript
-- 💞️ I’m looking to collaborate on open source projects on web app
-- 📫 How to reach me nashleo237@gmail.com
+- 🌱 I’m currently learning pure npl
+- 💞️ I’m looking to collaborate on open source projects on npl
+- 📫 How to reach me boukengrochinel15@gmail.com
 
 <!---
 nash-spy/nash-spy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
